@@ -1,2 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
+
+#description {
+	color:red;
+}
+
+#menu {
+	color:blue;
+	}
+	
+#photos {
+	color:pink;
+}
